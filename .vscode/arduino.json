@@ -1,0 +1,7 @@
+{
+    "programmer": "Arduino as ISP",
+    "board": "esp32:esp32:esp32wrover",
+    "port": "/dev/ttyACM0",
+    "sketch": "CameraWebServer.ino",
+    "configuration": "PartitionScheme=huge_app,FlashMode=qio,FlashFreq=80,UploadSpeed=115200,DebugLevel=none"
+}

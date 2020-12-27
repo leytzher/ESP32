@@ -3,6 +3,12 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
+// Note:
+// Use ESP32 Wrover Module 
+// HugeApp
+// QIO
+// 80Mhz
+// 115200
 //
 // WARNING!!! Make sure that you have either selected ESP32 Wrover Module,
 //            or another board which has PSRAM enabled
